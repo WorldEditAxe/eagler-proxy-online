@@ -1,4 +1,6 @@
 # EaglercraftX (1.8.9) WebSocket Proxy
+## DISCONTINUED
+This will work for EaglercraftX clients released prior to the source code release on the Christmas of 2021, but has since been superceded by [EaglerProxy](https://github.com/WorldEditAxe/eaglerproxy) which supports the latest version of EaglercraftX.
 ### Demo: `wss://eaglerx-server.worldeditaxe.repl.co/server` ([EaglerX 1.8.9 client](https://web.arch.lol/mc/1.8.8/) only)
 ![Two EaglerX clients connected to the same server](./assets/demo.png)
 ## What is this?
